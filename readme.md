@@ -1,4 +1,3 @@
-以下是将您提供的内容转换为Markdown格式的版本：
 
 ```markdown
 # CIFAR-10 图像分类项目（三层神经网络实现）
@@ -139,4 +138,3 @@ Epoch 41/100 => Train loss: 4.7985, Val loss: 4.8165, Val Acc: 0.3937
 - `reg`和`l2_lambda`在代码中均表示正则项
 ```
 
-以上内容已按照Markdown格式进行了优化，使其更加美观和易于阅读。
