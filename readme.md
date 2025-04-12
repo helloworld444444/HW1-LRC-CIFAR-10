@@ -19,6 +19,7 @@
 ├── test.py              # 模型评估函数
 ├── main.py              # 主执行脚本
 ├── hyper_selected.py    # 直接使用最佳超参数训练和测试
+├── cifar-10-batches-py/ # 图像分类数据集
 └── save_model/          # 模型参数保存目录
 ```
 
